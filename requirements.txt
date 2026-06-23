@@ -1,7 +1,0 @@
-Flask
-Flask-SocketIO
-paho-mqtt
-scapy
-reportlab
-openpyxl
-eventlet
